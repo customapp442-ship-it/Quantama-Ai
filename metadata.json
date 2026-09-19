@@ -1,0 +1,10 @@
+{
+  "name": "Quantuma - AI Assistant by Faiq",
+  "description": "A helpful multilingual AI assistant created by Faiq that auto-detects and speaks in any language, designed to be friendly, clear, and direct.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
